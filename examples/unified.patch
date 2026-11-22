@@ -1,0 +1,7 @@
+--- a/sample.txt
++++ b/sample.txt
+@@ -9,3 +9,3 @@
+ two
+-three
++THREE
+ four

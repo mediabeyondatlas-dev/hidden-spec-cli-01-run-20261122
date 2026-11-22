@@ -1,0 +1,8 @@
+sample.txt
+<<<<<<< SEARCH
+two
+three
+=======
+two
+THREE
+>>>>>>> REPLACE
